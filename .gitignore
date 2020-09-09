@@ -1,0 +1,3 @@
+aws-ec2-telegram-bot-key-pair.pem
+.env
+node_modules/

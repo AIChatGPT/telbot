@@ -1,3 +1,7 @@
+import requests
+import json
+from telegram.ext import Updater, CommandHandler
+
 const TelegramBot = require('node-telegram-bot-api');
 require('dotenv').config();
 

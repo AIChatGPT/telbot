@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darryleong95/aws-ec2-telegram-bot.git"
+    "url": "git+https://github.com/AIChatGPT/telbot.git"
   },
   "author": "",
   "license": "ISC",
